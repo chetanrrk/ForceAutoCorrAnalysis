@@ -25,9 +25,7 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="98fc9f45-b88a-4bc7-bcc9-14838319bb74" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/ForceAutoCoorelation.py" beforeDir="false" afterPath="$PROJECT_DIR$/ForceAutoCoorelation.py" afterDir="false" />
-    </list>
+    <list default="true" id="98fc9f45-b88a-4bc7-bcc9-14838319bb74" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
