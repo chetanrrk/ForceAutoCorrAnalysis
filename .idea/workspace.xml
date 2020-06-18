@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:development" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="98fc9f45-b88a-4bc7-bcc9-14838319bb74" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/ForceAutoCoorelation.py" beforeDir="false" afterPath="$PROJECT_DIR$/ForceAutoCoorelation.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1dVmhA1DlBSX9EwS3RHzGhXVXmU" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="98fc9f45-b88a-4bc7-bcc9-14838319bb74" name="Default Changelist" comment="" />
+      <created>1592518750422</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592518750422</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="development" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="94" y="26" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1592520696119">
+      <screen x="0" y="23" width="1280" height="723" />
+    </state>
+    <state x="94" y="26" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1280.723@0.23.1280.723" timestamp="1592520696119" />
+    <state x="418" y="145" key="FileChooserDialogImpl" timestamp="1592520398905">
+      <screen x="0" y="23" width="1280" height="723" />
+    </state>
+    <state x="418" y="145" key="FileChooserDialogImpl/0.23.1280.723@0.23.1280.723" timestamp="1592520398905" />
+    <state x="139" y="23" key="SettingsEditor" timestamp="1592520425984">
+      <screen x="0" y="23" width="1280" height="723" />
+    </state>
+    <state x="139" y="23" key="SettingsEditor/0.23.1280.723@0.23.1280.723" timestamp="1592520425984" />
+    <state x="265" y="105" key="Vcs.Push.Dialog.v2" timestamp="1592520807654">
+      <screen x="0" y="23" width="1280" height="723" />
+    </state>
+    <state x="265" y="105" key="Vcs.Push.Dialog.v2/0.23.1280.723@0.23.1280.723" timestamp="1592520807654" />
+  </component>
+</project>
